@@ -1,7 +1,7 @@
 # JamHacks Hackathon V 2021
 
 ## Description
-* Created "Cute-Botty", a fun Discord Bot  
+* Created "Cute Botty", a fun Discord Bot  
 * Used the "Emotions dataset for NLP" [Kaggle](https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp) dataset to train our bot in identifying emotions from messages
 * Used the [youtube_dl API](https://pypi.org/project/youtube_dl/) along with [FFmpeg](https://ffmpeg.org), to allow the bot to download and play music within voice chats in the server
 
